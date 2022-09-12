@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/chakma_sukhendu](https://codepen.io/chakma_sukhendu)
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Jquery, Javascript, React**
 
 - 📫 How to reach me **sukhenduchakma11@gmail.com**
 
