@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sukhendu Chakma</h1>
-<h3 align="left">A passionate frontend developer from Bangladesh</h3>
+<h3 align="left">An enthusiastic frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Personal Portfolio site](https://ebareng.com)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/chakma_sukhendu](https://codepen.io/chakma_sukhendu)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Jquery, Javascript, React**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, Jquery, Javascript, React**
 
 - 📫 How to reach me **sukhenduchakma11@gmail.com**
 
